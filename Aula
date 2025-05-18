@@ -1,0 +1,9 @@
+// entrada de dados
+let nome = prompt('Digite seu nome: ') 
+let idade= Number(prompt('Digite sua idade: '))
+
+//saída de dados 
+alert('Nome digitado: ' + nome)
+alert('Idade digitada: ' + idade)
+document.writeln('Nome digitado: ' + nome +'<br>')
+document.writeln('Idade digitado: ' + idade +'<br>')
